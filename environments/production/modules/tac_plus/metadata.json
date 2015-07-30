@@ -1,0 +1,32 @@
+{
+  "name": "sethlyons-tac_plus",
+  "version": "0.0.2",
+  "source": "git://github.com/fxcm/sethlyons-tac_plus.git",
+  "author": "sethlyons",
+  "license": "Apache License, Version 2.0",
+  "summary": "Puppet module for tac_plus",
+  "description": "Module for tac_plus installation and configuration",
+  "project_page": "https://github.com/fxcm/sethlyons-tac_plus",
+  "dependencies": [
+    {
+      "name": "puppetlabs/concat",
+      "version_requirement": ">= 1.0.2"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "633cbc292fe735968c59c8f580d2a08e",
+    "README.md": "957a2154b74a758be4e94f47555544f8",
+    "manifests/acl.pp": "5802686a00c5a598c95f1424ddc4eee1",
+    "manifests/group.pp": "ac61bb5cf7a77c83daf0ded4bf9c075c",
+    "manifests/init.pp": "252fb8e713888d3144b822e1fa0513b1",
+    "manifests/params.pp": "678ba4992a2a96afeaf3838b81c1b494",
+    "manifests/user.pp": "367dd23c70b7ed6bf3e7fe144a613611",
+    "templates/acl.erb": "5d279ad2be640423757dcc474b6bf8b3",
+    "templates/group.erb": "822daf19334a882fe00d33177cd26962",
+    "templates/server_settings.erb": "e716f17905799f8b9fa118091c5f0341",
+    "templates/user.erb": "f9f1867e364e7d81326e33696e968b40"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Gemfile": "6823cfc6d0af6288257cd9d730b68b6c",
+  "LICENSE": "ff35d00e4799aec1252c70ce33a72895",
+  "Modulefile": "b0ade3e41543797a9fa2e588ec0f256b",
+  "README.md": "74f83b4e349fe6768e25806279d9c4e4",
+  "Rakefile": "6cb10963db352d861e15f3065c5f7a91",
+  "manifests/init.pp": "d533c942cd6f10479a7a4da713e0d07d",
+  "manifests/router_db.pp": "7f5763f2f670e26a1ba7235bbcb4ebeb",
+  "metadata.json": "2f3ae764e2717c7fe7394e9a7f928bcf",
+  "spec/classes/init_spec.rb": "170f1d34f3a09f404ad046b05b42a6bc",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "templates/rancid-cron.erb": "acd2b355248bf79513d00b0727c7d07c",
+  "templates/rancid.conf.erb": "f096f2cbde629844214ae5eacdbf2878",
+  "templates/router.db.erb": "c278c9e7d94b234e21f715ec70ad6c8c"
+}
